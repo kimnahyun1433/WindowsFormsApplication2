@@ -1,1 +1,9 @@
 C:\Users\nhkim\AppData\Local\Temporary Projects\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\nhkim\Desktop\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\nhkim\Desktop\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\nhkim\Desktop\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\nhkim\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\nhkim\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\nhkim\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\nhkim\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\nhkim\Desktop\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
